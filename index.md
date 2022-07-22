@@ -5,23 +5,34 @@ You can visit my github page editor on GitHub
 Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
 My Profile
 
-I'am a brazilian Economic Msc Student at São Paulo School of Economics.
+I'am a brazilian Economic Msc Student at São Paulo School of Economics. Currently my research focus is in finance with interesection with macroeconomics. 
 
 Syntax highlighted code block
 
 #  Curriculum 
+
+
+
 ## Experiences 2
-### Articles 3
 
-- Bulleted
-- List
+1. Current
 
-1. Numbered
-2. List
+- TA of Computational Methods in Finance (undergrad)
 
-**Bold** and _Italic_ and `Code` text
+- TA of Introduction of Stochastic Calculus (undergrad)
 
-[Link](url) and ![Image](src)
+- TA of Financial Econometrics (Professional Masters) 
+
+- TA of Applied Macroecomics (undergrad) 
+
+### Working Papers 
+
+1. None 1
+2. None 2 
+
+**My contact: matheuscarrijobrito@gmail.com** and __ and `Code` text
+
+[https://eesp.fgv.br/](url) and ![Image](src)
 
 For more details see Basic writing and formatting syntax.
 Jekyll Themes
