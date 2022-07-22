@@ -8,9 +8,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 I'am a brazilian Economic Msc Student at São Paulo School of Economics. 
 
-```markdown
-Syntax highlighted code block
-
 #  Curriculum 
 
 1. (2020) B.A. FEA-RP 
@@ -28,6 +25,24 @@ Syntax highlighted code block
 
 2. 2021 
 - TA Financial Econometrics (Profissional Masters)
+
+### Articles 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Contact: matheuscarrijobrito@gmail.com** and _location: Rua Itapeva_ and ` Block ` 
+
+[EESP](https://eesp.fgv.br/) and ![Image](src)
+
+
+```markdown
+Syntax highlighted code block
+
+#  Curriculum
 
 ### Articles 3
 
