@@ -1,8 +1,7 @@
 ## Matheus Carrijo de Brito
 
-You can visit my github page [editor on GitHub](https://github.com/Carrijo95/carrijobrito.github.io/edit/gh-pages/index.md) 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  - My github page [editor on GitHub](https://github.com/Carrijo95)
+  - My linkedin page [linkedin](https://www.linkedin.com/in/matheus-carrijo-de-brito-1287539b/)
 
 ### My Profile 
 
